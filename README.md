@@ -1,7 +1,6 @@
-# Anomaly-RL
+# Anomaly Detection in Reinforcement Learning for Goal and Reward Discovery (Anomaly-RL)
 
-## Anomaly Detection in Reinforcement Learning for Goal and Reward Discovery
-Introduction
+## Introduction
 Reinforcement learning (RL) is a popular approach for solving complex control problems. However, when the environment is stochastic or the reward signal is sparse, learning can be slow and inefficient. This proposal presents a new approach to overcome these challenges by combining anomaly detection and reinforcement learning.
 
 ## Proposed Approach
